@@ -16,6 +16,6 @@ serverIP,serverUser,serverPassword,serverPort
 
 The proxies will be saved in proxies.txt in this format:
 
-172.110.28.233:3128:pompeyy:34fe6d3ds2f3s2
+IP:PORT:USERNAME:PASSWORD
 
 #Enjoy! :+1:
