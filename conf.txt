@@ -1,0 +1,3 @@
+user=yourUser
+pass=yourPass
+port=yourPort
