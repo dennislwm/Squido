@@ -1,4 +1,4 @@
-Squido - Private Proxy Installer
+#Squido - Private Proxy Installer
  
 Install and Configure Squid Proxies the easy way on any debian distro. 
 
