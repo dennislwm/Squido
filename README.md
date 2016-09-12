@@ -4,7 +4,7 @@ Install and Configure Squid Proxies the easy way on any debian distro.
 
 Enter your proxy details in conf.txt:
 
-user=yourUser
+![Alt text]user=yourUser
 
 pass=yourPass
 
